@@ -22,5 +22,6 @@ social-feed-ui mimics a social media timeline. Each post is an `<article>` with 
 
 ## Author
 Andrew Hueston
-## Live Demo 
-[https://AndHues/social-feed-ui/](https://AndHues/social-feed-ui/)
+## Live Preview
+
+[Social Feed UI Demo](https://andhues.github.io/social-feed-ui/)
